@@ -24,3 +24,6 @@ storage.child(path_on_cloud).put(path_local)
 
 # Download
 storage.child(path_on_cloud).download("<file_downloaded>")
+
+
+#https://stackoverflow.com/questions/65965299/keyerror-databaseurl-while-firebase-authentication-in-python
